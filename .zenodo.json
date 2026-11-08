@@ -1,0 +1,12 @@
+{
+  "title": "ASMR Registry catalog data: YouTube ASMR videos by trigger and by upload year",
+  "upload_type": "dataset",
+  "description": "<p>Summary statistics about YouTube ASMR videos from the ASMR Registry catalog (asmrregistry.com). Two CSV files: per main trigger (video count, median length, share 30 minutes or longer, share labelled no talking) and per upload year (count, median length, share over one hour, share labelled no talking, Korean-language share, trigger shares).</p><p>Trigger, no-talking and language labels are assigned by an AI model from titles and descriptions, not by listening. The catalog holds popular videos that are still online, not every upload. The files contain only computed counts and shares, no YouTube titles, IDs or view counts.</p>",
+  "creators": [{ "name": "ASMR Registry" }],
+  "license": "cc-by-4.0",
+  "keywords": ["ASMR", "autonomous sensory meridian response", "YouTube", "video statistics", "sleep", "relaxation"],
+  "related_identifiers": [
+    { "identifier": "https://asmrregistry.com/guides/asmr-statistics/", "relation": "isSupplementTo", "scheme": "url" },
+    { "identifier": "https://asmrregistry.com/guides/asmr-trends/", "relation": "isSupplementTo", "scheme": "url" }
+  ]
+}
